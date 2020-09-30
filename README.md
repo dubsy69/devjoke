@@ -910,3 +910,11 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+***
+
+If money is lost, then nothing is lost. If health is lost, then something is lost.
+
+But if character is lost, then 8 bits are lost.
+
+***
